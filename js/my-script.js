@@ -11,6 +11,7 @@ container.append(sLContainer);
 
 sLContainer.classList.add("shopping-list-container");
 
+
 let index=0;
 
 while(index < shoppingList.length){
